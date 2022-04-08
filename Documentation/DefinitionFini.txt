@@ -1,0 +1,40 @@
+﻿
+Définition de fini pour les Story
+
+- Codée en suivant les standards de codage.
+- Les tests unitaires passés.
+- Les tests d’acceptation passés avec succès dans un environnement de test.
+- La version est exempte de fautes de français.
+- La documentation du code est complétée.
+- La documentation utilisateur (aide) est complétée
+- L’interface est terminée.
+- Tous les autres contrôles relatifs à une story.
+
+
+Définition de fini pour les Sprint
+
+En plus de la définition de fini pour les story 
+
+- Les autres contrôles sur la qualité du résultat du sprint.
+
+Sprint 0 :
+  --> Norme de programmation
+  --> Norme d'interface
+  --> Choix des outils
+  --> Mode de fonctionnement
+
+Sprint 1 :
+ --> Gérer les nouvelles locations
+ --> Gérer les retours de location
+ --> Ajout de produit
+
+Sprint 2 :
+  --> Création d'utilisateurs
+  --> Login
+  --> Gestion des inventaires
+  --> Guide d'utilisation
+
+
+Définition de fini pour les Release
+
+ --> Gestion complète des location
